@@ -1,2 +1,2 @@
 # Git Conflict Practice
-ローカルの変更
+コンフリクト解消
